@@ -1,0 +1,13 @@
+{
+    "markdown.styles": [
+        "./lapis-cv/styles/main.css",
+        "./lapis-cv/styles/lapis-cv-serif.css"
+    ],
+    "markdown-pdf.margin.top": "0.7cm",
+    "markdown-pdf.margin.bottom": "0.7cm",
+    "markdown-pdf.margin.right": "0.7cm",
+    "markdown-pdf.margin.left": "0.7cm",
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.headerTemplate": "",
+    "markdown-pdf.footerTemplate": "",
+}

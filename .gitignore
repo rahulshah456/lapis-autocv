@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+
+/template-en.local.md
+/template-en.local.pdf
+/template-en.pdf
